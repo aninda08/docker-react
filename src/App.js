@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Aninda
+          Learn React with Aninda has been editted to test Pull Request flow
         </a>
       </header>
     </div>
